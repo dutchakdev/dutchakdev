@@ -1,10 +1,17 @@
 # 🥷 Hey, I'm Roman <a href="https://node.ua/"><img src="https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&labelColor=005BBB" /></a>
 
-Welcome to my homepage.
+## 👨‍🔬 Projects
 
-I'm Engineer and entrepreneur from <img src="https://cdn-icons-png.flaticon.com/128/330/330540.png"  width="13"/> Ukraine.
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31v2kwtc7b4w2wo37kd6otb5b43u&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=b01111&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31v2kwtc7b4w2wo37kd6otb5b43u&redirect=true)
+<table>
+  <tr>
+    <td width="60%">
+      <p>Welcome to my homepage.</p>
+      <p>I'm Engineer and entrepreneur from <img src="https://cdn-icons-png.flaticon.com/128/330/330540.png"  width="13"/> Ukraine.</p>
+    </td>
+    <td width="350">
+      <img src="https://spotify-github-profile.vercel.app/api/view?uid=31v2kwtc7b4w2wo37kd6otb5b43u&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=ca1616&bar_color_cover=false" />
+    </td>
+</table>
 
 ## 👨‍🔬 Projects
 <table>
