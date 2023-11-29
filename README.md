@@ -2,7 +2,7 @@
 
 Welcome to my homepage.
 
-I'm Engineer and enter entrepreneur from <img src="https://cdn-icons-png.flaticon.com/128/330/330540.png"  width="13"/> Ukraine.
+I'm Engineer and entrepreneur from <img src="https://cdn-icons-png.flaticon.com/128/330/330540.png"  width="13"/> Ukraine.
 
 ## 👨‍🔬 Projects
 <table>
