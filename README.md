@@ -139,7 +139,7 @@ Today, Ukraine is bombarded by Russian missiles. Civilians are dying. Russia com
 
 Our military give a worthy rebuff to the Russian invaders, the whole country is united. We will never forget this.
 
-So far, 128 children have been killed. Russians steal thousands of children from the occupied territories and blackmail their parents. Many cases of rape and execution of elderly people have been recorded.
+As of the morning of November 29th, according to official information from juvenile prosecutors, 511 children have died and at least 1148 have sustained injuries of varying severity. Russians steal thousands of children from the occupied territories and blackmail their parents. Many cases of rape and execution of elderly people have been recorded.
 
 We won't forgive.
 We ask the world for help, help us close the sky. No need to participate in the war, we can handle it ourselves, give us weapons!
