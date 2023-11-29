@@ -83,6 +83,7 @@ https://careers.velitech.com/
 </p>
 
 ### 3D Printing & Engineering
+<p align="left">
 <img alt="Fusion360" src="https://img.shields.io/badge/-Fusion360-13aa52?style=flat-square&logo=autodesk&logoColor=white&color=black" />
 <img alt="Sharp3D" src="https://img.shields.io/badge/-Sharp3D-13aa52?style=flat-square&logo=sharp3d&logoColor=white&color=black" />
 <img alt="Blender" src="https://img.shields.io/badge/-Blender-13aa52?style=flat-square&logo=blender&logoColor=white&color=black" />
@@ -98,6 +99,7 @@ https://careers.velitech.com/
 <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-13aa52?style=flat-square&logo=adobeillustrator&logoColor=white&color=black" />
 <img alt="Premiere" src="https://img.shields.io/badge/-Premiere-13aa52?style=flat-square&logo=adobepremierepro&logoColor=white&color=black" />
 <img alt="After Effect" src="https://img.shields.io/badge/-After_Effect-13aa52?style=flat-square&logo=adobeaftereffects&logoColor=white&color=black" />
+</p>
 
 
 ## 🤙 Connect with me
