@@ -92,8 +92,11 @@ https://careers.velitech.com/
 <img alt="Moonraker" src="https://img.shields.io/badge/-Moonraker-13aa52?style=flat-square&logo=moonraker&logoColor=white&color=black" />
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-13aa52?style=flat-square&logo=raspberrypi&logoColor=white&color=black" />
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-13aa52?style=flat-square&logo=raspberrypi&logoColor=white&color=black" />
+</p>
 
 ### Design
+
+<p align="left">
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-13aa52?style=flat-square&logo=figma&logoColor=white&color=black" />
 <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-13aa52?style=flat-square&logo=adobephotoshop&logoColor=white&color=black" />
 <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-13aa52?style=flat-square&logo=adobeillustrator&logoColor=white&color=black" />
