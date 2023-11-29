@@ -1,10 +1,32 @@
-# 🥷 Hey, I'm Roman. <a href="https://node.ua/"><img src="https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&labelColor=005BBB" /></a>
+# 🥷 Hey, I'm Roman <a href="https://node.ua/"><img src="https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&labelColor=005BBB" /></a>
 
 Welcome to my homepage.
 
 I'm Engineer and enter entrepreneur from <img src="https://cdn-icons-png.flaticon.com/128/330/330540.png"  width="13"/> Ukraine.
 
-⚡️ &nbsp;**Projects**
+## 👨‍🔬 Projects
+<table>
+  <tr>
+    <td width="350">
+      <a href="https://github.com/dutchakdev/anycubic">
+        <div style="margin-left: 60px;">
+          <a href="https://github.com/dutchakdev/anycubic"><b>Anycubic Upgrades</b></a>
+          <br/>Anycubic upgrades (links, klipper configs)
+        </div>
+      </a>
+    </td>
+    <td width="350">
+      <a href="https://github.com/dutchakdev/notion-mono-jars">
+        <div style="margin-left: 60px;">
+          <a href="https://github.com/dutchakdev/notion-mono-jars"><b>notion-mono-jars</b></a>
+          <br/>🦄 Updating status and progress for pages in Notion database from Monobank jars
+        </div>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## ⚡️ **Work**
 
 <table>
   <tr>
@@ -29,13 +51,56 @@ I'm Engineer and enter entrepreneur from <img src="https://cdn-icons-png.flatico
   </tr>
 </table>
 
-🦄 &nbsp;**Ready to start the most exciting career and growth path?**
+## 🦄 Ready to start the most exciting career and growth path?
 
 We are ready to let this happen!
 https://careers.velitech.com/
 
+## 🛠️ Languages and Tools
 
-🤙 &nbsp;**Connect with me**
+<p align="left">
+  High activity in my life and the desire to develop required many tools to achieve goals. The entire list here is not just used by me, but I also have certain experience in them, with many at an expert level.
+</p>
+
+### Development
+<p align="left">
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&color=black" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white&color=black" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=python&logoColor=white&color=black" />
+  <img alt="Go" src="https://img.shields.io/badge/-golang-43853d?style=flat-square&logo=go&logoColor=white&color=black" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-43853d?style=flat-square&logo=php&logoColor=white&color=black" />
+  <img alt="C/C++" src="https://img.shields.io/badge/-cpp-43853d?style=flat-square&logo=cplusplus&logoColor=white&color=black" />
+  <img alt="Yolov" src="https://img.shields.io/badge/-Yolov-45b8d8?style=flat-square&logo=yolov&logoColor=white&color=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white&color=black" />
+  <img alt="React Native" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white&color=black" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white&color=black" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-46a2f1?style=flat-square&logo=kubernetes&logoColor=white&color=black" />
+  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white&color=black" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white&color=black" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white&color=black" />
+  <img alt="WebRTC" src="https://img.shields.io/badge/-WebRTC-13aa52?style=flat-square&logo=webrtc&logoColor=white&color=black" />
+  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-13aa52?style=flat-square&logo=cypress&logoColor=white&color=black" />
+</p>
+
+### 3D Printing & Engineering
+<img alt="Fusion360" src="https://img.shields.io/badge/-Fusion360-13aa52?style=flat-square&logo=autodesk&logoColor=white&color=black" />
+<img alt="Sharp3D" src="https://img.shields.io/badge/-Sharp3D-13aa52?style=flat-square&logo=sharp3d&logoColor=white&color=black" />
+<img alt="Blender" src="https://img.shields.io/badge/-Blender-13aa52?style=flat-square&logo=blender&logoColor=white&color=black" />
+<img alt="Cura" src="https://img.shields.io/badge/-Cura-13aa52?style=flat-square&logo=cura&logoColor=white&color=black" />
+<img alt="Klipper" src="https://img.shields.io/badge/-Klipper-13aa52?style=flat-square&logo=klipper&logoColor=white&color=black" />
+<img alt="Moonraker" src="https://img.shields.io/badge/-Moonraker-13aa52?style=flat-square&logo=moonraker&logoColor=white&color=black" />
+<img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-13aa52?style=flat-square&logo=raspberrypi&logoColor=white&color=black" />
+<img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-13aa52?style=flat-square&logo=raspberrypi&logoColor=white&color=black" />
+
+### Design
+<img alt="Figma" src="https://img.shields.io/badge/-Figma-13aa52?style=flat-square&logo=figma&logoColor=white&color=black" />
+<img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-13aa52?style=flat-square&logo=adobephotoshop&logoColor=white&color=black" />
+<img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-13aa52?style=flat-square&logo=adobeillustrator&logoColor=white&color=black" />
+<img alt="Premiere" src="https://img.shields.io/badge/-Premiere-13aa52?style=flat-square&logo=adobepremierepro&logoColor=white&color=black" />
+<img alt="After Effect" src="https://img.shields.io/badge/-After_Effect-13aa52?style=flat-square&logo=adobeaftereffects&logoColor=white&color=black" />
+
+
+## 🤙 Connect with me
 <p align="left">
 <a href="https://twitter.com/dutchakdev2">
     <img src="https://img.shields.io/twitter/follow/dutchakdev2?label=&style=for-the-badge&logo=X&color=black"></a>
@@ -48,52 +113,6 @@ https://careers.velitech.com/
 <a href="https://www.thingiverse.com/dutchakdev/designs">
 <img alt="Thingiverse" src="https://img.shields.io/badge/Thingiverse-badge?style=for-the-badge&logo=thingiverse&logoColor=white&color=black"></a>
 </p>
-
-<details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
-  <br/>
-  <p align="left">
-    High activity in my life and the desire to develop required many tools to achieve goals. The entire list here is not just used by me, but I also have certain experience in them, with many at an expert level.
-  </p>
-
-  ## Development
-  <p align="left">
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white&color=black" />
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white&color=black" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=python&logoColor=white&color=black" />
-    <img alt="Go" src="https://img.shields.io/badge/-golang-43853d?style=flat-square&logo=go&logoColor=white&color=black" />
-    <img alt="PHP" src="https://img.shields.io/badge/-PHP-43853d?style=flat-square&logo=php&logoColor=white&color=black" />
-    <img alt="C/C++" src="https://img.shields.io/badge/-cpp-43853d?style=flat-square&logo=cplusplus&logoColor=white&color=black" />
-    <img alt="Yolov" src="https://img.shields.io/badge/-Yolov-45b8d8?style=flat-square&logo=yolov&logoColor=white&color=black" />
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white&color=black" />
-    <img alt="React Native" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white&color=black" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white&color=black" />
-    <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-46a2f1?style=flat-square&logo=kubernetes&logoColor=white&color=black" />
-    <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white&color=black" />
-    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white&color=black" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white&color=black" />
-    <img alt="WebRTC" src="https://img.shields.io/badge/-WebRTC-13aa52?style=flat-square&logo=webrtc&logoColor=white&color=black" />
-    <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-13aa52?style=flat-square&logo=cypress&logoColor=white&color=black" />
-  </p>
-
-  ## 3D Printing & Engineering
-  <img alt="Fusion360" src="https://img.shields.io/badge/-Fusion360-13aa52?style=flat-square&logo=autodesk&logoColor=white&color=black" />
-  <img alt="Sharp3D" src="https://img.shields.io/badge/-Sharp3D-13aa52?style=flat-square&logo=sharp3d&logoColor=white&color=black" />
-  <img alt="Blender" src="https://img.shields.io/badge/-Blender-13aa52?style=flat-square&logo=blender&logoColor=white&color=black" />
-  <img alt="Cura" src="https://img.shields.io/badge/-Cura-13aa52?style=flat-square&logo=cura&logoColor=white&color=black" />
-  <img alt="Klipper" src="https://img.shields.io/badge/-Klipper-13aa52?style=flat-square&logo=klipper&logoColor=white&color=black" />
-  <img alt="Moonraker" src="https://img.shields.io/badge/-Moonraker-13aa52?style=flat-square&logo=moonraker&logoColor=white&color=black" />
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-13aa52?style=flat-square&logo=raspberrypi&logoColor=white&color=black" />
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry Pi-13aa52?style=flat-square&logo=raspberrypi&logoColor=white&color=black" />
-  
-  ## Design
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-13aa52?style=flat-square&logo=figma&logoColor=white&color=black" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-13aa52?style=flat-square&logo=adobephotoshop&logoColor=white&color=black" />
-  <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-13aa52?style=flat-square&logo=adobeillustrator&logoColor=white&color=black" />
-  <img alt="Premiere" src="https://img.shields.io/badge/-Premiere-13aa52?style=flat-square&logo=adobepremierepro&logoColor=white&color=black" />
-  <img alt="After Effect" src="https://img.shields.io/badge/-After_Effect-13aa52?style=flat-square&logo=adobeaftereffects&logoColor=white&color=black" />
-
-</details>
 
 <details>
   <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b></summary>
@@ -157,7 +176,7 @@ VtRWjG8ogWBjcPo3dEzmlwzOxGmkzyks/SQwa5g0QiwqHJAza1s/LRERnDrLFQKU
 
 </details>
 
-🎗️ &nbsp;**Fundation of Secure**
+## 🎗️ Fundation of Secure <img src="https://cdn-icons-png.flaticon.com/128/330/330540.png"  width="13"/>
 Our goal is to provide point-specific support at the level of subdivisions. We respect such funds as PZh and Sergiy Prytula's Foundation, but these are large funds that provide for the Army at least at the brigade level. Also, due to the fact that de jure reforms in the Armed Forces of Ukraine have not been carried out, even though de facto we may be one of the most combat-ready armies in the world, the old bureaucratic systems often prevent our guys from getting what they need where they need it.
 
 - 🔗 https://node.ua
