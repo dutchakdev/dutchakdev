@@ -4,7 +4,38 @@ Welcome to my homepage.
 
 I'm Engineer and enter entrepreneur from <img src="https://cdn-icons-png.flaticon.com/128/330/330540.png"  width="13"/> Ukraine.
 
-🔗 &nbsp;**Connect with me**
+⚡️ &nbsp;**Projects**
+
+<table>
+  <tr>
+    <td width="300">
+      <a href="https://www.rivalfantasy.com/">
+        <img align="left" width="50" src="https://avatars.githubusercontent.com/u/105387289?s=200&v=4"/>
+        <div style="margin-left: 60px;">
+          <a href="https://www.rivalfantasy.com/"><b>Rivalfantasy</b></a>
+          <br/>System Development Manager
+        </div>
+      </a>
+    </td>
+    <td width="300">
+      <a href="https://www.hello-gel.com/">
+        <img align="left" width="50" src="https://avatars.githubusercontent.com/u/118005151?s=200&v=4"/>
+        <div style="margin-left: 60px;">
+          <a href="https://www.hello-gel.com/"><b>HELLO.</b></a>
+          <br/>Co-Owner
+        </div>
+      </a>
+    </td>
+  </tr>
+</table>
+
+🦄 &nbsp;**Ready to start the most exciting career and growth path?**
+
+We are ready to let this happen!
+https://careers.velitech.com/
+
+
+🤙 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://twitter.com/dutchakdev2">
     <img src="https://img.shields.io/twitter/follow/dutchakdev2?label=&style=for-the-badge&logo=X&color=black"></a>
