@@ -199,13 +199,7 @@ Our goal is to provide point-specific support at the level of subdivisions. We r
 
 ## ATTENTION! February 24, 2022 Russia attacked Ukraine
 
-Today, Ukraine is bombarded by Russian missiles. Civilians are dying. Russia compares our cities to the ground, hiding behind the fact that our military bases are located there. Russia is stuck in a lie, Russia is the biggest lie.
-
-Our military give a worthy rebuff to the Russian invaders, the whole country is united. We will never forget this.
-
-As of the morning of November 29th, according to official information from juvenile prosecutors, 511 children have died and at least 1148 have sustained injuries of varying severity. Russians steal thousands of children from the occupied territories and blackmail their parents. Many cases of rape and execution of elderly people have been recorded.
-
-We won't forgive.
-We ask the world for help, help us close the sky. No need to participate in the war, we can handle it ourselves, give us weapons!
-
+Today, Ukraine is being bombarded by Russian missiles. Civilians are dying. Russia is reducing our cities to rubble, justifying this by claiming that our military bases are located there. Russia is entrenched in lies; it is the epitome of deceit.
+Our military is mounting a strong defense against the Russian invaders; the entire country stands united. We will never forget this.
+As of the morning of November 29th, according to official information from juvenile prosecutors, 511 children have died and at least 1,148 have sustained injuries of varying severity. The Russians are abducting thousands of children from occupied territories and using them to blackmail their parents. Numerous cases of rape and the execution of elderly people have been documented."
 💔 🇺🇦
