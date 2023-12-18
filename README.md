@@ -14,42 +14,11 @@
 </table>
 
 ## 👨‍🔬 Projects
-<table>
-  <tr>
-    <td width="350">
-      <a href="https://github.com/dutchakdev/markdown-links-action">
-        <div style="margin-left: 60px;">
-          <a href="https://github.com/dutchakdev/markdonw-links-action"><b>markdonw-links-action</b></a>
-          <br/>🕵️‍♂️ Markdown Link Checker, automates the process of validating links in Markdown files within a GitHub repository.
-        </div>
-      </a>
-    </td>
-    <td width="350">
-      <a href="[https://github.com/dutchakdev/awesome-vpn](https://github.com/dutchakdev/awesome-vpn)">
-        <div style="margin-left: 60px;">
-          <a href="https://github.com/dutchakdev/awesome-vpn"><b>awesome-vpn</b></a>
-          <br/>🌐 A curated list of amazingly awesome VPN frameworks, libraries, software, and resources. This list aims to provide a comprehensive guide to VPN technologies, focusing on open-source projects and innovative solutions.
-        </div>
-      </a>
-    </td>
-    <td width="350">
-      <a href="https://github.com/dutchakdev/anycubic">
-        <div style="margin-left: 60px;">
-          <a href="https://github.com/dutchakdev/anycubic"><b>Anycubic Upgrades</b></a>
-          <br/>Anycubic upgrades (links, klipper configs)
-        </div>
-      </a>
-    </td>
-    <td width="350">
-      <a href="https://github.com/dutchakdev/notion-mono-jars">
-        <div style="margin-left: 60px;">
-          <a href="https://github.com/dutchakdev/notion-mono-jars"><b>notion-mono-jars</b></a>
-          <br/>🦄 Updating status and progress for pages in Notion database from Monobank jars
-        </div>
-      </a>
-    </td>
-  </tr>
-</table>
+
+[![markdown-links-action](https://github-readme-stats.vercel.app/api/pin/?username=dutchakdev&repo=markdown-links-action)](https://github.com/dutchakdev/markdown-links-action)
+[![awesome-vpn](https://github-readme-stats.vercel.app/api/pin/?username=dutchakdev&repo=awesome-vpn)](https://github.com/dutchakdev/awesome-vpn)
+[![anycubic](https://github-readme-stats.vercel.app/api/pin/?username=dutchakdev&repo=anycubic)](https://github.com/dutchakdev/anycubic)
+[![notion-mono-jars](https://github-readme-stats.vercel.app/api/pin/?username=dutchakdev&repo=notion-mono-jars)](https://github.com/dutchakdev/notion-mono-jars)
 
 ## ⚡️ **Work**
 
