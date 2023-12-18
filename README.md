@@ -7,6 +7,7 @@
     <td width="60%">
       <p>Welcome to my homepage.</p>
       <p>I'm Engineer and entrepreneur from <img src="https://cdn-icons-png.flaticon.com/128/330/330540.png"  width="13"/> Ukraine.</p>
+      <p>Codepen for fun https://codepen.io/dutchakdev</p>
     </td>
     <td width="350">
       <img src="https://spotify-github-profile.vercel.app/api/view?uid=31v2kwtc7b4w2wo37kd6otb5b43u&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=ca1616&bar_color_cover=false" />
