@@ -15,10 +15,10 @@
 
 ## 👨‍🔬 Projects
 
-[![markdown-links-action](https://github-readme-stats.vercel.app/api/pin/?username=dutchakdev&repo=markdown-links-action)](https://github.com/dutchakdev/markdown-links-action)
-[![awesome-vpn](https://github-readme-stats.vercel.app/api/pin/?username=dutchakdev&repo=awesome-vpn)](https://github.com/dutchakdev/awesome-vpn)
-[![anycubic](https://github-readme-stats.vercel.app/api/pin/?username=dutchakdev&repo=anycubic)](https://github.com/dutchakdev/anycubic)
-[![notion-mono-jars](https://github-readme-stats.vercel.app/api/pin/?username=dutchakdev&repo=notion-mono-jars)](https://github.com/dutchakdev/notion-mono-jars)
+[![markdown-links-action](https://github-readme-stats.vercel.app/api/pin/?username=dutchakdev&repo=markdown-links-action&theme=radical)](https://github.com/dutchakdev/markdown-links-action)
+[![awesome-vpn](https://github-readme-stats.vercel.app/api/pin/?username=dutchakdev&repo=awesome-vpn&theme=radical)](https://github.com/dutchakdev/awesome-vpn)
+[![anycubic](https://github-readme-stats.vercel.app/api/pin/?username=dutchakdev&repo=anycubic&theme=radical)](https://github.com/dutchakdev/anycubic)
+[![notion-mono-jars](https://github-readme-stats.vercel.app/api/pin/?username=dutchakdev&repo=notion-mono-jars&theme=radical)](https://github.com/dutchakdev/notion-mono-jars)
 
 ## ⚡️ **Work**
 
