@@ -182,6 +182,9 @@ Our goal is to provide point-specific support at the level of subdivisions. We r
 - 🔗 https://node.ua
 - 🔗 https://youcontrol.com.ua/catalog/company_details/45390126/
 
+## Counters
+[![Roman Dutchak profile views](https://u8views.com/api/v1/github/profiles/1294321/views/day-week-month-total-count.svg)](https://u8views.com/github/dutchakdev)
+
 
 ## ATTENTION! February 24, 2022 Russia attacked Ukraine
 
