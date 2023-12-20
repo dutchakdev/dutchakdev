@@ -53,6 +53,9 @@ https://careers.velitech.com/
 
 ## 🛠️ Languages and Tools
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="left">
   High activity in my life and the desire to develop required many tools to achieve goals. The entire list here is not just used by me, but I also have certain experience in them, with many at an expert level.
 </p>
