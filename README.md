@@ -105,7 +105,7 @@ https://careers.velitech.com/
 
 ## 🤙 Connect with me
 <p align="left">
-<a href="https://twitter.com/dutchakdev2">
+<a href="https://twitter.com/0xUkagent">
     <img src="https://img.shields.io/twitter/follow/dutchakdev2?label=&style=for-the-badge&logo=X&color=black"></a>
 <a href="https://www.instagram.com/dutchakdev">
 <img alt="Instagram" src="https://img.shields.io/badge/-badge?style=for-the-badge&logo=instagram&logoColor=white&color=black"></a>
