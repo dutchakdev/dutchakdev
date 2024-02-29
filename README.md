@@ -10,7 +10,6 @@
       <p>Codepen for fun https://codepen.io/dutchakdev</p>
     </td>
     <td width="350">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=31v2kwtc7b4w2wo37kd6otb5b43u&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=ca1616&bar_color_cover=false" />
     </td>
 </table>
 
